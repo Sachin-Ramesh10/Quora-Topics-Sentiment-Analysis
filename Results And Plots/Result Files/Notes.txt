@@ -1,0 +1,26 @@
+Answers-Quora.csv --> First column: Answers 
+		      second column: ID's
+
+
+Cluster_Mapping.csv --> First column : cluster
+		        second column :user Id 
+			third column:points. (Average(Negative,Neutral,Positive) for each users)
+
+
+Profiles-Quora --> First column:Users
+	     		second column: Id's 
+
+
+SentimentQuora --> Frst column:QuestionID 
+		Second Column:UserID 
+		Third Column:AnswerID
+		Fourth column:Negative Emotion value
+		Fifth Column:Neutral Emotion valu
+		Sixth column:Positive emotional value
+
+
+User-Compound --> Contains compound emotional value for each user for his answers
+
+User_compund_Average --> Contains user ID's and their average compound emotional value(comping all answers)
+
+Quora.csv  --> contains questions(first column), users who answered those questions(second column) and their answers(third column)

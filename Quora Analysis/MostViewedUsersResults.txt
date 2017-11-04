@@ -1,0 +1,7 @@
+Most viewed writers-
+writers={"Balaji Viswanathan":1511,"Naman Chakraborty":450,"Krishna Singh":382,"Mohan Dudha":206,"Deekhit Bhattacharya":1642,"Nishank Mishra":1240,"Aadam Ibn Farooq":2290,"Vijay Simha":659,"Aditya Dogra":1166,"Sahil Chatta":657}
+
+
+cluster size 2- {'0': [1166, 1642], '1': [206, 382, 450, 657, 659, 1240, 1511, 2290]}
+cluster size 3- {'0': [206, 450, 657, 1166, 1240, 1511, 1642, 2290], '1': [382, 659]}
+cluster size 5- {'0': [382, 450, 659, 1240, 1511, 2290], '2': [206, 657, 1166, 1642]}
